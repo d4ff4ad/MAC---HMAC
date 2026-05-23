@@ -9,8 +9,8 @@ Proyek ini adalah simulasi sederhana untuk memahami konsep **Message Authenticat
 Berikut adalah daftar anggota kelompok 1 yang berkontribusi dalam pembuatan proyek ini:
 
 1. **[Rasyid Oktavian]** - [2306045]
-2. **[Ai Nur Azizah]** - [2306071]
-3. **[Asyifa Azsma Homsatiun]** - [2306077]
+2. **[Ai Nur Azizah]** - [2306077]
+3. **[Asyifa Azsma Homsatiun]** - [2306071]
 4. **[Muhammad Daffa Adzdzikra D]** - [2306082]
 
 ---
